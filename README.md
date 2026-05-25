@@ -29,27 +29,34 @@ Desenvolvo projetos envolvendo análise de dados, modelagem estatística, aprend
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" 
 />
-
-
 <br/>
 <br/>
 
 ## Estatísticas
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=FelipeaACamargo&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+<p align="center">
+  <img
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api?username=FelipeaACamargo&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
   />
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeaACamargo&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  <img
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeaACamargo&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
   />
-
 </p>
+
+## Áreas de Interesse
+
+- Ciência de Dados
+- Inteligência Artificial
+- *Machine Learning*
+- Estatística Aplicada
+- *Big Data*
+- Engenharia de Dados
+- Visualização de Dados
+- Matemática Aplicada e Computacional
+- Modelagem Matemática
+- Cálculo Diferencial e Integral
+- Equações Diferenciais Ordinárias (EDO)
+- Simulações Computacionais
