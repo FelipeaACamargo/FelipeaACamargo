@@ -7,7 +7,6 @@ Sou Licenciado em Matemática pela UNESP (Campus de Presidente Prudente), Mestre
 
 Desenvolvo projetos envolvendo análise de dados, modelagem estatística, aprendizado de máquina e simulações computacionais, utilizando Python como principal ferramenta para pesquisa, ensino e desenvolvimento de soluções baseadas em dados.
 
-🔗 LinkedIn: [Felipe A. Camargo](https://www.linkedin.com/in/felipeacamargo)
 
 ---
 
