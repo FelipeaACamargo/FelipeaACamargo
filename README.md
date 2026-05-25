@@ -27,7 +27,7 @@ Desenvolvo projetos envolvendo análise de dados, modelagem estatística, aprend
     title="LaTeX"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/latex/latex-original.svg"          
 />
 <br/>
 <br/>
