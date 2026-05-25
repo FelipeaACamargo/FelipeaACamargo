@@ -32,19 +32,6 @@ Desenvolvo projetos envolvendo análise de dados, modelagem estatística, aprend
 <br/>
 <br/>
 
-## Estatísticas
-
-<p align="center">
-  <img
-    height="180em"
-    src="https://github-readme-stats.vercel.app/api?username=FelipeaACamargo&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
-  />
-
-  <img
-    height="180em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeaACamargo&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
-  />
-</p>
 
 ## Áreas de Interesse
 
