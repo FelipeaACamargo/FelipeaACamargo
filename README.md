@@ -14,21 +14,17 @@ Meu principal objetivo é integrar teoria e prática por meio de projetos aplica
 ## Áreas de Interesse
 
 - Ciência de Dados
-- Inteligência Artificial
 - Machine Learning
 - Deep Learning
 - Estatística Aplicada
+- Inteligência Artificial
 - Big Data
-- Engenharia de Dados
-- Arquitetura de Dados
 - Visualização de Dados
 - Matemática Aplicada
 - Matemática Computacional
 - Modelagem Matemática
-- Pesquisa Operacional
 - Simulações Computacionais
 - Equações Diferenciais Ordinárias (EDO)
-- Otimização
 
 
 ---
